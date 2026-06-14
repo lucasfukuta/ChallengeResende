@@ -18,7 +18,7 @@ import {
  * Renderiza gráficos modernos para Status e Evolução Mensal.
  */
 export default function DashboardCharts({ porStatus, evolucaoMensal }) {
-  
+
   // 1. Processar dados para o Gráfico de Barras por Status
   const statusData = Object.keys(porStatus || {}).map((status) => ({
     name: status,
@@ -50,12 +50,7 @@ export default function DashboardCharts({ porStatus, evolucaoMensal }) {
 
   const monthlyData = (evolucaoMensal || []).map((item) => ({
     ...item,
-    label: formatMonthLabel(item.mes),
-    // Valor monetário formatado para exibição amigável no Tooltip
-    receitaFormatada: new Intl.NumberFormat('pt-BR', {
-      style: 'currency',
-      currency: 'BRL'
-    }).format(item.receita)
+    label: formatMonthLabel(item.mes)
   }));
 
   // Estilo de Tooltip customizado para encaixar no tema escuro
@@ -82,8 +77,11 @@ export default function DashboardCharts({ porStatus, evolucaoMensal }) {
           ) : (
             <ResponsiveContainer width="100%" height="100%">
               <PieChart>
-                <Tooltip contentStyle={customTooltipStyle} />
-                <Legend 
+                <Tooltip
+                  contentStyle={customTooltipStyle}
+                  itemStyle={{ color: '#ffffff' }}
+                />
+                <Legend
                   wrapperStyle={{ paddingTop: '10px', fontSize: '12px' }}
                   iconType="circle"
                 />
@@ -100,9 +98,9 @@ export default function DashboardCharts({ porStatus, evolucaoMensal }) {
                   labelLine={false}
                 >
                   {statusData.map((entry, index) => (
-                    <Cell 
-                      key={`cell-${index}`} 
-                      fill={getStatusColor(entry.name)} 
+                    <Cell
+                      key={`cell-${index}`}
+                      fill={getStatusColor(entry.name)}
                     />
                   ))}
                 </Pie>
@@ -126,53 +124,47 @@ export default function DashboardCharts({ porStatus, evolucaoMensal }) {
             <ResponsiveContainer width="100%" height="100%">
               <LineChart
                 data={monthlyData}
-                margin={{ top: 10, right: 15, left: -20, bottom: 0 }}
+                margin={{ top: 20, right: 10, left: -25, bottom: 0 }}
               >
                 <CartesianGrid strokeDasharray="3 3" stroke="rgba(255, 255, 255, 0.04)" />
-                <XAxis 
-                  dataKey="label" 
-                  stroke="#9ca3af" 
-                  fontSize={12} 
-                  tickLine={false} 
+                <XAxis
+                  dataKey="label"
+                  stroke="#9ca3af"
+                  fontSize={12}
+                  tickLine={false}
                 />
-                <YAxis 
-                  stroke="#9ca3af" 
-                  fontSize={12} 
-                  allowDecimals={false} 
-                  tickLine={false} 
-                />
-                <Tooltip 
-                  contentStyle={customTooltipStyle}
-                  formatter={(value, name) => {
-                    if (name === 'receita') {
-                      return [new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(value), 'Receita'];
-                    }
-                    return [value, 'Atendimentos'];
+
+                {/* Eixo Y (Quantidade de Atendimentos) */}
+                <YAxis
+                  stroke="#9ca3af"
+                  fontSize={12}
+                  allowDecimals={false}
+                  tickLine={false}
+                  label={{
+                    value: 'Atendimentos',
+                    angle: -90,
+                    position: 'insideLeft',
+                    offset: 10,
+                    fill: '#9ca3af',
+                    fontSize: 10,
+                    fontWeight: 600
                   }}
                 />
-                <Legend 
-                  wrapperStyle={{ paddingTop: '10px', fontSize: '12px' }}
-                  iconType="circle"
+
+                <Tooltip
+                  contentStyle={customTooltipStyle}
+                  formatter={(value) => [value, 'Atendimentos']}
                 />
-                {/* Linha 1: Quantidade de Atendimentos */}
+
+                {/* Linha: Quantidade de Atendimentos */}
                 <Line
                   type="monotone"
                   dataKey="atendimentos"
-                  name="Quantidade"
+                  name="Atendimentos"
                   stroke="#4f46e5"
-                  strokeWidth={3}
+                  strokeWidth={4}
                   activeDot={{ r: 8 }}
-                  dot={{ strokeWidth: 2, r: 4 }}
-                />
-                {/* Linha 2: Receita */}
-                <Line
-                  type="monotone"
-                  dataKey="receita"
-                  name="receita"
-                  stroke="#10b981"
-                  strokeWidth={2}
-                  strokeDasharray="4 4"
-                  dot={{ strokeWidth: 1, r: 3 }}
+                  dot={{ stroke: '#4f46e5', strokeWidth: 2, r: 5, fill: '#0b0f19' }}
                 />
               </LineChart>
             </ResponsiveContainer>

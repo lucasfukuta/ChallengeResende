@@ -92,8 +92,9 @@ const getMetrics = (req, res) => {
     // Distribuição por Status
     const statusMap = {};
 
-    // Agrupamento por Evolução Mensal
+    // Agrupamento por Evolução Mensal e Diária
     const monthlyMap = {};
+    const dailyMap = {};
 
     allAtendimentos.forEach((item) => {
       // KPIs
@@ -121,6 +122,19 @@ const getMetrics = (req, res) => {
         if (item.status === 'Concluído') {
           monthlyMap[monthKey].receita += (item.valor || 0);
         }
+
+        // Evolução Diária (usa o padrão YYYY-MM-DD para ordenação e agrupamento)
+        const dayKey = item.data; // Ex: "2026-05-12"
+        if (!dailyMap[dayKey]) {
+          dailyMap[dayKey] = {
+            atendimentos: 0,
+            receita: 0
+          };
+        }
+        dailyMap[dayKey].atendimentos++;
+        if (item.status === 'Concluído') {
+          dailyMap[dayKey].receita += (item.valor || 0);
+        }
       }
     });
 
@@ -133,6 +147,15 @@ const getMetrics = (req, res) => {
         receita: parseFloat(monthlyMap[mes].receita.toFixed(2))
       }));
 
+    // Formatar e ordenar a Evolução Diária cronologicamente
+    const evolucaoDiaria = Object.keys(dailyMap)
+      .sort()
+      .map((dia) => ({
+        dia, // Ex: "2026-05-12"
+        atendimentos: dailyMap[dia].atendimentos,
+        receita: parseFloat(dailyMap[dia].receita.toFixed(2))
+      }));
+
     return res.status(200).json({
       kpis: {
         totalAtendimentos,
@@ -141,7 +164,8 @@ const getMetrics = (req, res) => {
         receitaTotal: parseFloat(receitaTotal.toFixed(2))
       },
       porStatus: statusMap,
-      evolucaoMensal
+      evolucaoMensal,
+      evolucaoDiaria
     });
   } catch (error) {
     return res.status(500).json({

@@ -43,7 +43,7 @@ export default function App() {
       } catch (err) {
         console.error('Erro ao buscar métricas:', err);
         setErrorMetrics(
-          err.response?.data?.message || 
+          err.response?.data?.message ||
           'Não foi possível carregar as métricas do painel.'
         );
       } finally {
@@ -73,7 +73,7 @@ export default function App() {
       } catch (err) {
         console.error('Erro ao buscar lista de atendimentos:', err);
         setErrorList(
-          err.response?.data?.message || 
+          err.response?.data?.message ||
           'Não foi possível carregar a lista de atendimentos.'
         );
       } finally {
@@ -103,10 +103,10 @@ export default function App() {
             Sistema Integrado de Acompanhamento de Atendimentos e Analytics Jurídico
           </p>
         </div>
-        
-        {/* Renderiza botões de exportação baseados estritamente nos dados ativos na tabela no momento */}
-        {!loadingList && !errorList && atendimentos.length > 0 && (
-          <ExportButtons atendimentos={atendimentos} />
+
+        {/* Renderiza botões de exportação baseados em todos os dados que batem com o filtro */}
+        {!loadingList && !errorList && totalItems > 0 && (
+          <ExportButtons search={search} totalItems={totalItems} />
         )}
       </header>
 
