@@ -1,0 +1,4992 @@
+[
+  {
+    "id": 46619,
+    "cliente": "Suyan Santanna Batista de Mattos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46620,
+    "cliente": "Raimundo Nonato Neves de Menezes",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46621,
+    "cliente": "Leila Lopes da Silva Mota Campelo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "11:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46622,
+    "cliente": "Rita de Cassia de Oliveira Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46623,
+    "cliente": "David Langrafe",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "16:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46624,
+    "cliente": "Adalto Dias Soares",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-09",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46625,
+    "cliente": "Irene Lucena da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46626,
+    "cliente": "Maria das Gracas da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "09:20",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46627,
+    "cliente": "Beatriz Aparecida da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46628,
+    "cliente": "Ana Amelia Barreto Gomyde",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46629,
+    "cliente": "Simone Santana Correia Cunha Pereira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46630,
+    "cliente": "Catia Costa e Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "11:20",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46631,
+    "cliente": "Rosimeiry Aparecida Carvalho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46632,
+    "cliente": "Jose do Espirito Santo Castro Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46633,
+    "cliente": "Miguelita Maria de Oliveira Marcelino",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46634,
+    "cliente": "Maria de Lourdes Vieira Rocha",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-12",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46635,
+    "cliente": "Maria Dulcineia de Araujo Mendes",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46636,
+    "cliente": "Marcelo Henrique Kronenberger",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46637,
+    "cliente": "Elisabete Marques Monteiro",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46638,
+    "cliente": "Rosangela Gomes da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46639,
+    "cliente": "Ana Emilia Azevedo Santana",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "10:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46640,
+    "cliente": "Sandra Menezes Moreno",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46641,
+    "cliente": "Alessandra Goncalves de Miranda Gabarao",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "11:20",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46642,
+    "cliente": "Luciana da Silva Barbosa",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "11:40",
+    "status": "Cancelado",
+    "valor": 200
+  },
+  {
+    "id": 46643,
+    "cliente": "Kleber Vera Cruz Lobato de Araujo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46644,
+    "cliente": "Maria Aparecida Saturnina do Nascimento",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46645,
+    "cliente": "Sandra Maria de Souza Lucena",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46646,
+    "cliente": "Nair Cordeiro do Nascimento Ribeiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-13",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46647,
+    "cliente": "Daniel Jose Lasara",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46648,
+    "cliente": "Maria Gorete Soares da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "09:20",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46649,
+    "cliente": "Maria de Nazare Aredes Moutinho",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "09:40",
+    "status": "Cancelado",
+    "valor": 200
+  },
+  {
+    "id": 46650,
+    "cliente": "Rosely Ferreira de Sousa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46651,
+    "cliente": "Meyre Machado",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "10:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46652,
+    "cliente": "Antonio Rodrigues da Costa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46653,
+    "cliente": "Maria Maura de Souza",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46654,
+    "cliente": "Mirian Cruz Oliveira Alencar",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46655,
+    "cliente": "Adalto Dias Soares",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46656,
+    "cliente": "Marcelo Pires Mendonca",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-14",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46657,
+    "cliente": "Maria Aparecida Luiz Brandao",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46658,
+    "cliente": "Candelaria Cervigni Bonalumi",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "09:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46659,
+    "cliente": "Marilia dos Santos Pinheiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46660,
+    "cliente": "Erilda Oliveira Gutierrez",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46661,
+    "cliente": "Lilian Thereza Rocha dos Santos",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46662,
+    "cliente": "Maria Chaves de Carvalho da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "10:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46663,
+    "cliente": "Lair Franca de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46664,
+    "cliente": "Lenilce Serra Lins",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "11:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46665,
+    "cliente": "Vilma Vieira Bento",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-15",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46666,
+    "cliente": "George Castro Lopes",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "09:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46667,
+    "cliente": "Adriana Souza Toledo",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "10:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46668,
+    "cliente": "Gleide Mara de Souza",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "10:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46669,
+    "cliente": "Nadijane Carlos Praciano",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46670,
+    "cliente": "Alessandro Borges Tatagiba",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46671,
+    "cliente": "Andrea Amorim",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46672,
+    "cliente": "Gislene Maria Costa Nascimento",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 226.67
+  },
+  {
+    "id": 46673,
+    "cliente": "Iza Rodrigues Maia",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 300
+  },
+  {
+    "id": 46674,
+    "cliente": "Regina Maria de Oliveira Cezar",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46675,
+    "cliente": "Maria de Fatima Ventura Ribeiro",
+    "advogado": "Raphaela Silva Freitas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:20",
+    "status": "Concluído",
+    "valor": 200
+  },
+  {
+    "id": 46676,
+    "cliente": "Luiz Carlos Rodrigues de Souza",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46677,
+    "cliente": "Luciana Cauvila",
+    "advogado": "Soraia Cristina Sombra de Oliveira",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 290
+  },
+  {
+    "id": 46678,
+    "cliente": "Conceicao de Maria Vieira Varela",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46679,
+    "cliente": "Alessandra Araujo Marinho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "14:40",
+    "status": "Cancelado",
+    "valor": 533.33
+  },
+  {
+    "id": 46680,
+    "cliente": "Augustinho Scheffer da Rosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46681,
+    "cliente": "Ana Paula Barbosa de Miranda",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46682,
+    "cliente": "Queti Diettrich",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46683,
+    "cliente": "Rivalda de Jesus Moura Guerra",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46684,
+    "cliente": "Vania Maria Vieira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46685,
+    "cliente": "Vera Lucia de Fatima Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46686,
+    "cliente": "Paulo Roberto Soares Carvalho",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46687,
+    "cliente": "Maria Marqueza Lins Pedrosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 226.67
+  },
+  {
+    "id": 46688,
+    "cliente": "Jany Goncalves Nery Rodrigues",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46689,
+    "cliente": "Maria Geralda Cordeiro Valadares",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 533.33
+  },
+  {
+    "id": 46690,
+    "cliente": "Maria Aparecida de Mendonca",
+    "advogado": "Raphaela Silva Freitas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:20",
+    "status": "Concluído",
+    "valor": 200
+  },
+  {
+    "id": 46691,
+    "cliente": "Maisa Brandao Ferreira",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46692,
+    "cliente": "Heliana Dias Oliveira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-16",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46693,
+    "cliente": "Jose Carlos Touret de Faria",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46694,
+    "cliente": "Danielle Alves de Lemos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46695,
+    "cliente": "Renata Marques Taveira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46696,
+    "cliente": "Marley de Barcelos Dias",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46697,
+    "cliente": "Gecilda Grigorio de Andrade",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46698,
+    "cliente": "Debora Rodrigues dos Santos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46699,
+    "cliente": "Claudete Maria dos Santos Sousa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46700,
+    "cliente": "Priscila C. V. de Brito Medeiros",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46701,
+    "cliente": "Claudia de Lacerda Monteiro",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46702,
+    "cliente": "Maria do Socorro Macedo S Goncalves",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46703,
+    "cliente": "Valdirene Pereira Lima Braga",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46704,
+    "cliente": "Regina Maria da Costa Goncalves",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46705,
+    "cliente": "Maria Maura de Souza",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46706,
+    "cliente": "Maisa Borges da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46707,
+    "cliente": "Maria do Rosario do Nascimento Ribeiro Alves",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46708,
+    "cliente": "Ingrid Morais Gibbons Prahl",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "14:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46709,
+    "cliente": "Michele Cristina Machado Avila",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46710,
+    "cliente": "Elaine Silvana de Freitas",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46711,
+    "cliente": "Alessandra dos Santos Matos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46712,
+    "cliente": "Leniria Maria da Rocha dos Reis",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46713,
+    "cliente": "Geraldo Luiz da Silva Barros",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46714,
+    "cliente": "Elaine Rocha Otoni",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46715,
+    "cliente": "Rosimar Barbosa dos Santos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46716,
+    "cliente": "Simone Martins Verona Lemos",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-19",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46717,
+    "cliente": "Idevirgens Neres Rodrigues",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46718,
+    "cliente": "Cornelio Jose de Santiago Filho",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46719,
+    "cliente": "Vilma Vieira Bento",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46720,
+    "cliente": "Lazara Vieira Diniz Teixeirense",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46721,
+    "cliente": "Danielle Alves de Lemos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46722,
+    "cliente": "Rosemary Ayub Brasil",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46723,
+    "cliente": "Zulma Alves de Oliveira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46724,
+    "cliente": "Nadir Coutinho Alves Lobo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46725,
+    "cliente": "Damiana Aparecida Telles Moreira Ferreira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46726,
+    "cliente": "Nivia Auxiliadora de Sousa Mendonca",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46727,
+    "cliente": "Rita de Cassia Soares Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46728,
+    "cliente": "Nair Cordeiro do Nascimento Ribeiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46729,
+    "cliente": "Maria Rubeni Miranda",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46730,
+    "cliente": "Kauan Gomes Mansur",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46731,
+    "cliente": "Maria Marqueza Lins Pedrosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46732,
+    "cliente": "Joao Balbino Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46733,
+    "cliente": "Marilia dos Santos Pinheiro",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46734,
+    "cliente": "Marta Lúcia de Mattos Maia",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46735,
+    "cliente": "Eusania Aparecida Costa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46736,
+    "cliente": "Maria Amelia Cavalcanti Yoshizawa",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46737,
+    "cliente": "Luis Cesar Franco Taira",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46738,
+    "cliente": "Consuelita Oliveira do Nascimento de Carvalho",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46739,
+    "cliente": "Vanderlea dos Santos Rodrigues de Medeiros",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46740,
+    "cliente": "Joel Teles Ribeiro",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46741,
+    "cliente": "Mirian Cruz Oliveira Alencar",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46742,
+    "cliente": "Ana Rosa Pereira da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46743,
+    "cliente": "Clarissa Moreira Barros",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46744,
+    "cliente": "Maria Sonia Pinheiro",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46745,
+    "cliente": "Diogo Pereira das Neves Souza Lima",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46746,
+    "cliente": "Candelaria Cervigni Bonalumi",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46747,
+    "cliente": "Maria do Rosario do Nascimento Ribeiro Alves",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-20",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46748,
+    "cliente": "Helielma Lucia Pereira Camargos",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-21",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46749,
+    "cliente": "Francisca Maria de Sousa Carvalho",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-21",
+    "hora": "15:20",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46750,
+    "cliente": "Katia Oliveira da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46751,
+    "cliente": "Cristina dos Santos Guimaraes Gusmao",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46752,
+    "cliente": "Eduardo Confucio dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "09:00",
+    "status": "Cancelado",
+    "valor": 266.67
+  },
+  {
+    "id": 46753,
+    "cliente": "Adalto Dias Soares",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46754,
+    "cliente": "Lourival Carlos Cunha Junior",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46755,
+    "cliente": "Elita Barbosa Silva",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "09:40",
+    "status": "Cancelado",
+    "valor": 200
+  },
+  {
+    "id": 46756,
+    "cliente": "Jose Donizete Ribeiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46757,
+    "cliente": "Wandhoyl Antonio Nobre Pegado",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46758,
+    "cliente": "Eurismar Bento de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46759,
+    "cliente": "Arlete de Oliveira Jurumenha",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46760,
+    "cliente": "Irene Fomes Garcez",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46761,
+    "cliente": "Maria Inez Ferreira dos Santos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46762,
+    "cliente": "Jose Ricardo Alves de Freitas",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46763,
+    "cliente": "Rafael Vicente Galletti",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46764,
+    "cliente": "Darilene Pereira de Oliveira Romero",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46765,
+    "cliente": "Jane Oliveira de Araujo",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46766,
+    "cliente": "Suzanny Ilidia da Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46767,
+    "cliente": "Geraldo Mangelo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46768,
+    "cliente": "Joana Batista Sebastiao",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "14:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46769,
+    "cliente": "Francisca Maria de Sousa Carvalho",
+    "advogado": "Larissa Cristina Amaral",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 275
+  },
+  {
+    "id": 46770,
+    "cliente": "Candelaria Cervigni Bonalumi",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46771,
+    "cliente": "Maria da Luz de Souza",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-22",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46772,
+    "cliente": "Rosenclair Diniz",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46773,
+    "cliente": "Clovis Lucio da Fonseca Sabino",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46774,
+    "cliente": "Denise Araujo de Almeida Lourenco",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-22",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46775,
+    "cliente": "Maria de Fatima Menezes de Araujo",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46776,
+    "cliente": "Juscelino Francisco de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46777,
+    "cliente": "José Nildo de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46778,
+    "cliente": "Gilmar de Souza Ribeiro",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46779,
+    "cliente": "Douglas Guimaraes Teles",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46780,
+    "cliente": "Edenio Jose Andrade Santos",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46781,
+    "cliente": "Mauro Batista Lacerda",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46782,
+    "cliente": "Luis Carlos Alves de Azevedo",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-23",
+    "hora": "14:20",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46783,
+    "cliente": "Paulo Henrique Alves Dias",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46784,
+    "cliente": "Maria Celeste Neumann Simao",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46785,
+    "cliente": "Raquel Procopio Pires",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46786,
+    "cliente": "Jeanette Costa Marinho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-23",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46787,
+    "cliente": "Isaura Alves da Silveira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46788,
+    "cliente": "Maria Maura de Souza",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46789,
+    "cliente": "Aneir Adriano Rodrigues de Lima",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "15:20",
+    "status": "Cancelado",
+    "valor": 433.33
+  },
+  {
+    "id": 46790,
+    "cliente": "Daniel Teixeira Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46791,
+    "cliente": "Juscelino Manoel da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-23",
+    "hora": "15:40",
+    "status": "Concluído",
+    "valor": 266.67
+  },
+  {
+    "id": 46792,
+    "cliente": "Guaraciaba Santos Santana",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46793,
+    "cliente": "Rosilene Dornelas Rosa",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46794,
+    "cliente": "Vania Alves de Assis",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46795,
+    "cliente": "Damiana Aparecida Telles Moreira Ferreira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46796,
+    "cliente": "Roberto Liao Junior",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-23",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46797,
+    "cliente": "Maisa Brandao Ferreira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46798,
+    "cliente": "Oneilson Medeiros de Aquino",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46799,
+    "cliente": "Cicero Ferreira de Lima Filho",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46800,
+    "cliente": "Alvaro Lucio de Aguiar Silveira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46801,
+    "cliente": "Jamil Abdala",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46802,
+    "cliente": "Wesley Pereira da Silva",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "10:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46803,
+    "cliente": "Mariselena Pedroso Faulstich",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46804,
+    "cliente": "Roberto Lima do Prado",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46805,
+    "cliente": "Mara Rubia Rodrigues Martins",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46806,
+    "cliente": "Jamielton Braulino de Amorim",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46807,
+    "cliente": "Jose de Anchieta Vieira de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46808,
+    "cliente": "Eusania Aparecida Costa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46809,
+    "cliente": "Celina da Silva Costa",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-26",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46810,
+    "cliente": "Zilda Maria de Melo Soares",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46811,
+    "cliente": "Danuzzia Barbosa da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46812,
+    "cliente": "Michele Cristina Machado Avila",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46813,
+    "cliente": "Edinalda Barroso Menezes",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46814,
+    "cliente": "Eliane Fernandes Carvalho Pinto",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46815,
+    "cliente": "Rosimar Barbosa dos Santos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46816,
+    "cliente": "Jose Donizete Ribeiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46817,
+    "cliente": "Neidimar Oliveira da Silva Souza",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46818,
+    "cliente": "Marco Aurelio de Morais Santos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46819,
+    "cliente": "Vanessa Martins Farias Alves Bomfim",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46820,
+    "cliente": "Andrea Amorim",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46821,
+    "cliente": "Vania Alves de Assis",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-26",
+    "hora": "16:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46822,
+    "cliente": "Antonio Rodrigues da Costa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46823,
+    "cliente": "Julior Roberto de Moura",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46824,
+    "cliente": "Joao Balbino Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46825,
+    "cliente": "Maria Cecilia de Souza Ribeiro Regiani",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "09:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46826,
+    "cliente": "Norma Cantuaria Salim",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46827,
+    "cliente": "Maria Sonia Pinheiro",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46828,
+    "cliente": "Cesar Augusto Ambrosio Telhado",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46829,
+    "cliente": "Dalvani Alves da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46830,
+    "cliente": "Ivone Tieme Kataniwa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46831,
+    "cliente": "Ana Francisca de Souza",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46832,
+    "cliente": "Vania Lucia Bezerra da Silva",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46833,
+    "cliente": "Magda Elaine de Aguiar Santos Berteli",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46834,
+    "cliente": "Cirlene Aparecida Campos Alves",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46835,
+    "cliente": "Maria Icleia Ribeiro de Sales",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-27",
+    "hora": "14:30",
+    "status": "Cancelado",
+    "valor": 200
+  },
+  {
+    "id": 46836,
+    "cliente": "Francisco das Chagas Batista",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46837,
+    "cliente": "Ironice Macedo do Prado Silva",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46838,
+    "cliente": "Antonia Pereira da Silva Carvalho",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46839,
+    "cliente": "Ereni Ana da Silva de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46840,
+    "cliente": "Lindalva Pereira da Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46841,
+    "cliente": "Rubens Bueno Avelar",
+    "advogado": "",
+    "areaJuridica": "ASPSUL",
+    "data": "2021-04-27",
+    "hora": "15:00",
+    "status": "Cancelado",
+    "valor": 550
+  },
+  {
+    "id": 46842,
+    "cliente": "Rosane Franca Stuckert",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-27",
+    "hora": "15:10",
+    "status": "Cancelado",
+    "valor": 200
+  },
+  {
+    "id": 46843,
+    "cliente": "Ana Lucia de Oliveira Nobrega",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:20",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46844,
+    "cliente": "Claudia Regina Justino Fernandes",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:20",
+    "status": "Cancelado",
+    "valor": 433.33
+  },
+  {
+    "id": 46845,
+    "cliente": "Liliam Goncalves Soares",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46846,
+    "cliente": "Patricia Galdino da Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46847,
+    "cliente": "Denis Januario Ferreira da Silva",
+    "advogado": "",
+    "areaJuridica": "ASPSUL",
+    "data": "2021-04-27",
+    "hora": "15:55",
+    "status": "Cancelado",
+    "valor": 550
+  },
+  {
+    "id": 46848,
+    "cliente": "Clelia Fernanda Lopes dos Santos",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46849,
+    "cliente": "Luciana da Silva Barbosa",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46850,
+    "cliente": "Vanderleia Barros Venancio de Araujo",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46851,
+    "cliente": "Pablo Cunha de Moraes Pinheiro",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46852,
+    "cliente": "Rosely Angelina Maranhao Camargo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46853,
+    "cliente": "Vanderleia Ferreira de Menezes",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46854,
+    "cliente": "Claudia Regina Martins dos Santos",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46855,
+    "cliente": "Rosemberg Caetano Lopes",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-27",
+    "hora": "16:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46856,
+    "cliente": "Eliana Miyako Nakashoji",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46857,
+    "cliente": "Joao Flavio de Castro Moreira",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46858,
+    "cliente": "Maria Correia de Miranda Vasconcelos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46859,
+    "cliente": "Rosalea Pinheiro dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46860,
+    "cliente": "Leonardo Meira de Almeida",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46861,
+    "cliente": "Maria de Nazare dos Santos Ferreira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46862,
+    "cliente": "Euda Suely Ferreira da Silva",
+    "advogado": "",
+    "areaJuridica": "ASPSUL",
+    "data": "2021-04-28",
+    "hora": "09:55",
+    "status": "Cancelado",
+    "valor": 550
+  },
+  {
+    "id": 46863,
+    "cliente": "Maria da Conceicao Goncalves de Macedo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46864,
+    "cliente": "Katia Noely Paranhos Barbosa",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46865,
+    "cliente": "Rosinalva Fernandes de Araujo Lima",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46866,
+    "cliente": "Marcia Correia Moita",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46867,
+    "cliente": "Veranice Nascimento Dias",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46868,
+    "cliente": "Schirlene Augusto Ramos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46869,
+    "cliente": "Waldeci Pereira Fernandes",
+    "advogado": "",
+    "areaJuridica": "ASPSUL",
+    "data": "2021-04-28",
+    "hora": "10:50",
+    "status": "Cancelado",
+    "valor": 550
+  },
+  {
+    "id": 46870,
+    "cliente": "Domingos Vieira Gomes",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46871,
+    "cliente": "Lidia Laurindo de Sousa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46872,
+    "cliente": "Lindalva Pereira da Silva",
+    "advogado": "",
+    "areaJuridica": "Geral",
+    "data": "2021-04-28",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46873,
+    "cliente": "Rosana Goncalves da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46874,
+    "cliente": "Klaus Graf Faria",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46875,
+    "cliente": "Valdinizia de Aguiar Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46876,
+    "cliente": "Maria Alzira Nunes Magalhaes",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 250
+  },
+  {
+    "id": 46877,
+    "cliente": "Marcia Rodrigues de Assis",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46878,
+    "cliente": "Sophia Cunha Afonso",
+    "advogado": "Guilherme Henrique Orrico da Silva",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-28",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46879,
+    "cliente": "Maria Tereza Felix da Silva",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46880,
+    "cliente": "Denise Figueiredo Ferreira",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-28",
+    "hora": "14:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46881,
+    "cliente": "Claudia Richter Tranquillini",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46882,
+    "cliente": "Helielma Lucia Pereira Camargos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46883,
+    "cliente": "Pablo Cunha de Moraes Pinheiro",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "Geral",
+    "data": "2021-04-28",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46884,
+    "cliente": "Dieny Eire Passos Martins Freire",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46885,
+    "cliente": "Rosangela Campos Bezerra",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-28",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46886,
+    "cliente": "Nara Daloma Freire da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46887,
+    "cliente": "Maricelia Carvalho Costa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46888,
+    "cliente": "Rosendo Eloi dos Santos Cruz",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46889,
+    "cliente": "Mariza da Conceicao Cruz Bastos",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46890,
+    "cliente": "Emanuel Marques de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46891,
+    "cliente": "Glesia Ribas de Carvalho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46892,
+    "cliente": "Ivanete Leal de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46893,
+    "cliente": "Claudia Cristina da Silva Melonio",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46894,
+    "cliente": "Sirley Maria de Amorim",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46895,
+    "cliente": "Daniel Jose Lasara",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46896,
+    "cliente": "Marli Brasilina Pacheco",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46897,
+    "cliente": "Rosemberg Caetano Lopes",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46898,
+    "cliente": "Maria Antonia Ferreira Barbosa dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46899,
+    "cliente": "Irene Fomes Garcez",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-29",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46900,
+    "cliente": "Maria da Penha Alves Vieira",
+    "advogado": "",
+    "areaJuridica": "Geral",
+    "data": "2021-04-29",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46901,
+    "cliente": "Marilia dos Santos Pinheiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46902,
+    "cliente": "Virginia Costa Conceicao",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-29",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46903,
+    "cliente": "Ana Rosa Pereira da Silva",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "11:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46904,
+    "cliente": "Ana Maria Romao Chaves",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46905,
+    "cliente": "Jose Antonio da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46906,
+    "cliente": "Kleuber Pereira Ferraz",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46907,
+    "cliente": "Gleidson Sousa Arruda",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46908,
+    "cliente": "Edilamar Gomes de Souza",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46909,
+    "cliente": "Joaquim Manoel Rodrigues Santos",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-29",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 375
+  },
+  {
+    "id": 46910,
+    "cliente": "Antonio Vieira Neto",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46911,
+    "cliente": "Maria Goreth Andrade Dizero",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46912,
+    "cliente": "Maria de Fatima Nascimento da Costa",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46913,
+    "cliente": "Danuzzia Barbosa da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46914,
+    "cliente": "Antonio Rodrigues Turibio Junior",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46915,
+    "cliente": "Nadja Simoes de Lima",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46916,
+    "cliente": "Rita de Cassia Soares Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46917,
+    "cliente": "Marilia dos Santos Pinheiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46918,
+    "cliente": "Jorge Luiz Schaidt",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-30",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46919,
+    "cliente": "Cicero Antonio de Macedo",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-30",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46920,
+    "cliente": "Suzana Pereira Raimualdo Baena",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46921,
+    "cliente": "Idevirgens Neres Rodrigues",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 433.33
+  },
+  {
+    "id": 46922,
+    "cliente": "Humberto Nei Leite Bomfim",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46923,
+    "cliente": "Francisco das Chagas Campelo Filho",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-30",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 226.67
+  },
+  {
+    "id": 46924,
+    "cliente": "Brasiliana de Castro Pereira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46925,
+    "cliente": "Solange Maria Fontinelle dos Santos",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-30",
+    "hora": "14:20",
+    "status": "Concluído",
+    "valor": 226.67
+  },
+  {
+    "id": 46926,
+    "cliente": "Solange Gomes Lopes",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46927,
+    "cliente": "Maria Marqueza Lins Pedrosa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46928,
+    "cliente": "Eliane Maciel Pinto",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46929,
+    "cliente": "Diana Alves da Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46930,
+    "cliente": "Dimas de Souza Silveira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46931,
+    "cliente": "Nadia Kouzak",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "15:20",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46932,
+    "cliente": "Lealvina Santarem Rodrigues",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-04-30",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 226.67
+  },
+  {
+    "id": 46933,
+    "cliente": "Francinaldo Coelho de Carvalho",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46934,
+    "cliente": "Ana Maria de Sousa Nobre",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46935,
+    "cliente": "Gervasio Martins Bandeira",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46936,
+    "cliente": "Maria das Gracas Soares Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46937,
+    "cliente": "Maria das Gracas Malaquias Campos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46938,
+    "cliente": "Maria Isabel Nogueira de Sousa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46939,
+    "cliente": "Sandra Paula e Silva",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-04-30",
+    "hora": "16:40",
+    "status": "Cancelado",
+    "valor": 433.33
+  },
+  {
+    "id": 46940,
+    "cliente": "Valdete Soares dos Santos Brandao",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46941,
+    "cliente": "Nubia de Souza Martins Cordova",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46942,
+    "cliente": "Valdemir Matias da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46943,
+    "cliente": "Jadson Cabral de Lima",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46944,
+    "cliente": "Katia Maria Diniz Dias",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46945,
+    "cliente": "Gabriela Nunes de Araujo",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46946,
+    "cliente": "Simone Lopes de Assis",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46947,
+    "cliente": "Ana Celia Bandeira de Souza",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46948,
+    "cliente": "Rosalea Pinheiro dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46949,
+    "cliente": "Lindalva Pereira da Silva",
+    "advogado": "",
+    "areaJuridica": "Geral",
+    "data": "2021-05-03",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46950,
+    "cliente": "Raquel Von Sohsten Chagas Lima",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46951,
+    "cliente": "Edvane Aparecida de Matos Costa",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46952,
+    "cliente": "Ana Paula Freire Jorge",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46953,
+    "cliente": "Wilma Aparecida da Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-03",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46954,
+    "cliente": "Eloisa Alves dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46955,
+    "cliente": "Joao Batista Fernandes da Costa",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-03",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46956,
+    "cliente": "Nair Cordeiro do Nascimento Ribeiro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46957,
+    "cliente": "Alessandra Araujo Marinho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46958,
+    "cliente": "Crislene Silva de Vasconcelos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46959,
+    "cliente": "Rosa Maria Lima Santos",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46960,
+    "cliente": "Maria Correia de Miranda Vasconcelos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46961,
+    "cliente": "Cyntia Leiles Ferreira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46962,
+    "cliente": "Bailon Taveira Vila Nova",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46963,
+    "cliente": "Ana Celia da Silva Gadelha",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 46964,
+    "cliente": "Vilma Campos da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46965,
+    "cliente": "Eliane Maciel Pinto",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 46966,
+    "cliente": "Carlos Casemiro Campos de Sousa",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 46967,
+    "cliente": "Alda Suely Rodrigues Mota",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-03",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 46968,
+    "cliente": "Michele Cristina Machado Avila",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46969,
+    "cliente": "Lys Abdalla Leme",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46970,
+    "cliente": "Neusirene Braga Chaves Custodio",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46971,
+    "cliente": "Guiomar Pereira Barbosa",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46972,
+    "cliente": "Zenaide Jose de Araujo",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46973,
+    "cliente": "Elionilde Garcez dos Santos Santana",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46974,
+    "cliente": "Glaucia Cristina Maciel Lage Marques",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46975,
+    "cliente": "Maria das Gracas Malaquias Campos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46976,
+    "cliente": "Luzinete Soares de Oliveira Costa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46977,
+    "cliente": "Edmar Lopes dos Reis",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46978,
+    "cliente": "Luciana da Silva Barbosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46979,
+    "cliente": "Noilza Santos Goncalves",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46980,
+    "cliente": "Dayse Maria Santos da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46981,
+    "cliente": "Maria Jose de Oliveira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46982,
+    "cliente": "Clelia Fernanda Lopes dos Santos",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 433.33
+  },
+  {
+    "id": 46983,
+    "cliente": "Eliane Rosa de Amorim",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46984,
+    "cliente": "Andrea Antony Gomes de Matos",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46985,
+    "cliente": "Antonia Correia Lima",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "14:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46986,
+    "cliente": "Sahiure de Souza Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46987,
+    "cliente": "Ingrid Morais Gibbons Prahl",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46988,
+    "cliente": "Marilda de Oliveira Araujo Mendes",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46989,
+    "cliente": "Francisco Marcos da Silva Musy",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46990,
+    "cliente": "Orlei Rodrigues de Oliveira",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46991,
+    "cliente": "Celia Moreira Nogueira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46992,
+    "cliente": "Valdinizia de Aguiar Silva",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46993,
+    "cliente": "Marcia Soares de Macedo Barbosa",
+    "advogado": "",
+    "areaJuridica": "Geral",
+    "data": "2021-05-04",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46994,
+    "cliente": "Paulo Roberto Soares Carvalho",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 46995,
+    "cliente": "Vanderleia Ferreira de Menezes",
+    "advogado": "Ana Carolina Araujo Carolino",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 310
+  },
+  {
+    "id": 46996,
+    "cliente": "Zionora Ribeiro de Vasconcelos",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:40",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 46997,
+    "cliente": "Uatila Alves de Alencar",
+    "advogado": "Hanna Gabriella Martins de Albuquerque",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-04",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 433.33
+  },
+  {
+    "id": 46998,
+    "cliente": "Lara Camara Sanches",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 46999,
+    "cliente": "Elda Santos da Penha",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47000,
+    "cliente": "Ana Constancia Macedo Faria",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47001,
+    "cliente": "Livia Duraes de Velasco Braga",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47002,
+    "cliente": "Domingos Savio Ladeira de Oliveira",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47003,
+    "cliente": "Marta de Oliveira Lopes",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47004,
+    "cliente": "Katia Maria Diniz Dias",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47005,
+    "cliente": "Michella Aparecida Medeiros Maia",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47006,
+    "cliente": "Patricia de Sousa Resende",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47007,
+    "cliente": "Lucio Palheta de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47008,
+    "cliente": "Sheila Rodrigues Alecrim Freire",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47009,
+    "cliente": "Debora Raquel Gontijo",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47010,
+    "cliente": "Maria Salete da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47011,
+    "cliente": "Marta Lúcia de Mattos Maia",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47012,
+    "cliente": "Kenia das Gracas Pereira dos Santos",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47013,
+    "cliente": "Ana Celia da Silva Gadelha",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47014,
+    "cliente": "Miriam Dias Dourado Cavalcante",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47015,
+    "cliente": "Adriani Goulart dos Santos Cavalcante",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47016,
+    "cliente": "Glauce Auxiliadora Schult",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47017,
+    "cliente": "Rosely Ferreira de Sousa",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47018,
+    "cliente": "Luis Carlos Alves de Azevedo",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47019,
+    "cliente": "Ilaneide Marques Dourado",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47020,
+    "cliente": "Ronaldo dos Santos Motta",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47021,
+    "cliente": "Oscarita Mendes Lobato",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47022,
+    "cliente": "Jair Batista de Oliveira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47023,
+    "cliente": "Mirani Barbosa Guedes",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47024,
+    "cliente": "Lealvina Santarem Rodrigues",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47025,
+    "cliente": "Elizabeth Maria Matias de Macedo",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-05",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47026,
+    "cliente": "Maria da Conceicao Goncalves de Macedo",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-05",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47027,
+    "cliente": "Luzio Afravio Ferreira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SAEP/DF",
+    "data": "2021-05-05",
+    "hora": "17:00",
+    "status": "Cancelado",
+    "valor": 400
+  },
+  {
+    "id": 47028,
+    "cliente": "Eloisa de Sousa Cantuaria",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SAEP/DF",
+    "data": "2021-05-05",
+    "hora": "17:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47029,
+    "cliente": "Maria de Nazare Aredes Moutinho",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47030,
+    "cliente": "Jadson Alves de Freitas",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47031,
+    "cliente": "Rosemberg Caetano Lopes",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47032,
+    "cliente": "Altivo Assuncao Goncalez Becker",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47033,
+    "cliente": "Jose Odair Meireles Nunes",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47034,
+    "cliente": "Suely Mota da Rocha",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47035,
+    "cliente": "Luis Roberto Maciel Goncalves",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47036,
+    "cliente": "Cremilde Krause Borges da Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47037,
+    "cliente": "Claudete Maria dos Santos Sousa",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47038,
+    "cliente": "Edvaldo Alves de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47039,
+    "cliente": "Maura Soares dos Santos Dantas",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47040,
+    "cliente": "Neide Aparecida Lopes",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47041,
+    "cliente": "Mirela Schroder Xavier",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "11:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47042,
+    "cliente": "Isabel Cristiane Dias Lucas",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47043,
+    "cliente": "Dayse Zerbinato Martins Velasquez",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47044,
+    "cliente": "Maria de Fatima da Silva Oliveira",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47045,
+    "cliente": "Luis Roberto Maciel Goncalves",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "Geral",
+    "data": "2021-05-06",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47046,
+    "cliente": "Juscelino Francisco de Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47047,
+    "cliente": "Lucia Oliveira Viana",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47048,
+    "cliente": "Luzia Lopes Cardoso",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "14:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47049,
+    "cliente": "Maria do Perpetuo Socorro Soares Lopes Barbosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47050,
+    "cliente": "Cristina Maria da Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47051,
+    "cliente": "Jeanne Veloso Peixoto",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47052,
+    "cliente": "Patricia da Silva Souza",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47053,
+    "cliente": "Susanete Dias da Costa",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47054,
+    "cliente": "Valeria do Carmo Leite de Andrade Barbosa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47055,
+    "cliente": "Terezinha de Jesus Dias Dutra",
+    "advogado": "Raphaela Silva Freitas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 300
+  },
+  {
+    "id": 47056,
+    "cliente": "Maria Isabel Nogueira de Sousa",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-06",
+    "hora": "17:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47057,
+    "cliente": "Nadijane Carlos Praciano",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47058,
+    "cliente": "Alex de Oliveira Guedes",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47059,
+    "cliente": "Valdeni Geralda Pereira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47060,
+    "cliente": "Terezinha Rodrigues Ornelas",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47061,
+    "cliente": "Luis Cesar Franco Taira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47062,
+    "cliente": "Aristeia Isabel Porto",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "09:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47063,
+    "cliente": "Doleny Francisca de Souza Fernandes",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47064,
+    "cliente": "Joao Nunes Teixeira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47065,
+    "cliente": "Janine Gabriela Pitangui do Prado",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "10:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47066,
+    "cliente": "Honorina Nunes da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47067,
+    "cliente": "Maria das Dores Rodrigues da Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47068,
+    "cliente": "Beatriz Nunes de Oliveira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47069,
+    "cliente": "Gilmar de Souza Ribeiro",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47070,
+    "cliente": "Luciana da Silva Barbosa",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47071,
+    "cliente": "Francisca das Chagas Farias Caldas",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-07",
+    "hora": "11:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47072,
+    "cliente": "Adriana Maria Cruz Ramos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 400
+  },
+  {
+    "id": 47073,
+    "cliente": "Marinez Marcelino da Silva",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "11:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47074,
+    "cliente": "Ana Lúcia da Silva de Miranda",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47075,
+    "cliente": "Augusto Parras Albuquerque",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47076,
+    "cliente": "Francisca Maria de Araujo",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47077,
+    "cliente": "Maria Aparecida de Melo",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47078,
+    "cliente": "Maria Lourdes de Oliveira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47079,
+    "cliente": "Celma de Souza Marinho Dantas",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47080,
+    "cliente": "Claudia Maria Santos Lima",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47081,
+    "cliente": "Silvana Maria Nascimento",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47082,
+    "cliente": "Irani Maristela Alves Costa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47083,
+    "cliente": "Sandra Alves da Cruz Moraes",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47084,
+    "cliente": "Rachel Silva de Sousa",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47085,
+    "cliente": "Fernando Marques dos Santos",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47086,
+    "cliente": "Maria Vanderlene Feitosa de Sousa Formiga",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 300
+  },
+  {
+    "id": 47087,
+    "cliente": "Maria do Socorro de Farias Costa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "15:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47088,
+    "cliente": "Maria Helena Lobato de Castro",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47089,
+    "cliente": "Roberto Luiz da Silva",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 533.33
+  },
+  {
+    "id": 47090,
+    "cliente": "Altivo Assuncao Goncalez Becker",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:00",
+    "status": "Cancelado",
+    "valor": 340
+  },
+  {
+    "id": 47091,
+    "cliente": "Rosemary Tavares de Oliveira",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47092,
+    "cliente": "Shirley Xavier",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47093,
+    "cliente": "Diva Batista",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47094,
+    "cliente": "Lair Franca de Oliveira",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47095,
+    "cliente": "Aneir Adriano Rodrigues de Lima",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-07",
+    "hora": "16:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47096,
+    "cliente": "Siland Meiry Franca Dib",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "09:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47097,
+    "cliente": "Maria do Socorro Carlos Ramalho",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "09:00",
+    "status": "Cancelado",
+    "valor": 350
+  },
+  {
+    "id": 47098,
+    "cliente": "Ricardo Gama",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47099,
+    "cliente": "Marilene Mendes da Silva",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "09:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47100,
+    "cliente": "Claudete Maria dos Santos Sousa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47101,
+    "cliente": "Iriana Maria Cardoso Cunha",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "10:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47102,
+    "cliente": "Marlene Saraiva Monteiro",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "10:30",
+    "status": "Cancelado",
+    "valor": 350
+  },
+  {
+    "id": 47103,
+    "cliente": "Jose Ivan Mayer de Aquino",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "10:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47104,
+    "cliente": "Vagner Cavalcante Costa",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47105,
+    "cliente": "Rita de Cassia Soares Silva",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "11:00",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47106,
+    "cliente": "Rosana Maria Guimaraes Costa",
+    "advogado": "Gabriel Athaydes Bodan",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 350
+  },
+  {
+    "id": 47107,
+    "cliente": "Marilza Francisco da Silva",
+    "advogado": "Livia de Oliveira Queiroz",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "11:30",
+    "status": "Concluído",
+    "valor": 340
+  },
+  {
+    "id": 47108,
+    "cliente": "Dalva Machado de Lima",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47109,
+    "cliente": "Ricardo Ferreira de Sousa",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-10",
+    "hora": "14:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47110,
+    "cliente": "Mirela Schroder Xavier",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "14:00",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47111,
+    "cliente": "Terezinha Rodrigues Ornelas",
+    "advogado": "",
+    "areaJuridica": "SINDSASC",
+    "data": "2021-05-10",
+    "hora": "14:30",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47112,
+    "cliente": "Gloria Maria Batista Cavalcante",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47113,
+    "cliente": "Glaucia Cristina Maciel Lage Marques",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "14:40",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47114,
+    "cliente": "Elida Maria Loureiro Lino",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "15:00",
+    "status": "Cancelado",
+    "valor": 300
+  },
+  {
+    "id": 47115,
+    "cliente": "Wellington Fagundes de Lira",
+    "advogado": "Fernanda Nascimento Silveira Vargas",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 533.33
+  },
+  {
+    "id": 47116,
+    "cliente": "Lucilene D Abadia Morais",
+    "advogado": "Marina Menezes Vinhaes",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "15:20",
+    "status": "Concluído",
+    "valor": 500
+  },
+  {
+    "id": 47117,
+    "cliente": "Gisele Alzira Ferrari Sampaio",
+    "advogado": "",
+    "areaJuridica": "SINPRO/DF",
+    "data": "2021-05-10",
+    "hora": "15:30",
+    "status": "Cancelado",
+    "valor": 300
+  }
+]

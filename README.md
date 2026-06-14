@@ -4,7 +4,7 @@ Este projeto consiste em uma API REST desenvolvida em Node.js com Express para g
 
 ---
 
-## 🛠️ Tecnologias e Dependências do Backend
+## Tecnologias e Dependências do Backend
 
 Abaixo estão listadas as dependências utilizadas no backend e a justificativa técnica para a escolha de cada uma:
 
@@ -17,7 +17,7 @@ Abaixo estão listadas as dependências utilizadas no backend e a justificativa 
 
 ---
 
-## 📐 Decisões de Arquitetura
+## Decisões de Arquitetura
 
 O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controller*, simplificado aqui para *Routes e Controllers* devido ao escopo da API):
 
@@ -30,7 +30,7 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
 
 ---
 
-## ⚙️ Instalação e Execução Local
+## Instalação e Execução Local
 
 ### Pré-requisitos
 * Ter o **Node.js** (versão 16.x ou superior) instalado.
@@ -57,7 +57,7 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
 
 ---
 
-## 🔌 Endpoints da API
+## Endpoints da API
 
 ### 1. Listagem de Atendimentos
 * **Rota:** `GET /api/atendimentos`
@@ -114,7 +114,7 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
 
 ---
 
-## ⚠️ Limitações do Modelo Mock e Melhorias Futuras
+## Limitações do Modelo Mock e Melhorias Futuras
 
 Como o backend opera sem persistência relacional real:
 1. **Concorrência e Performance:** A leitura síncrona do arquivo JSON (`readFileSync`) bloqueia a event loop do Node.js. Para produção, o ideal é migrar para um banco de dados real (ex: PostgreSQL, MongoDB) para manipulação assíncrona escalável e eficiente.
@@ -123,13 +123,13 @@ Como o backend opera sem persistência relacional real:
 
 ---
 
-## 🖥️ Frontend (Instruções)
+## Frontend (Instruções)
 
 O frontend foi desenvolvido utilizando **React (Vite)** e estruturado de forma modular para consumir os dados da API REST criada na etapa anterior.
 
 ---
 
-### 🛠️ Tecnologias e Dependências do Frontend
+### Tecnologias e Dependências do Frontend
 
 * **[React](https://react.dev/) & [React DOM](https://reactjs.org/) (v18.3.1):**
   * *Justificativa:* Biblioteca líder para criação de interfaces declarativas baseadas em componentes reativos, possibilitando re-renderizações eficientes sob mudanças de estados locais.
@@ -142,7 +142,7 @@ O frontend foi desenvolvido utilizando **React (Vite)** e estruturado de forma m
 
 ---
 
-### 📐 Decisões de Arquitetura do Cliente Frontend
+### Decisões de Arquitetura do Cliente Frontend
 
 1. **Proxy Integrado via Vite (`frontend/vite.config.js`):**
    * Configuração de proxy de desenvolvimento redirecionando todas as requisições enviadas a `/api` para `http://localhost:5000/api`. Isso elimina problemas de CORS em desenvolvimento e simplifica URLs relativas no código do React.
@@ -156,7 +156,7 @@ O frontend foi desenvolvido utilizando **React (Vite)** e estruturado de forma m
 
 ---
 
-### ⚙️ Instalação e Execução Local do Frontend
+### Instalação e Execução Local do Frontend
 
 #### Pré-requisitos
 * Ter o **backend** ativo e rodando na porta `5000` (conforme instruções da seção anterior).
