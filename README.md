@@ -47,7 +47,7 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
    ```bash
    npm install
    ```
-   *(Caso esteja no Windows PowerShell e enfrente restrições de script com npm, execute `npm.cmd install`)*.
+   *(Caso esteja no Windows PowerShell e enfrente restrições de script com npm, execute o comando no Command Prompt)*.
 
 3. **Executar em modo de desenvolvimento (com Nodemon):**
    ```bash
@@ -184,7 +184,7 @@ O frontend foi desenvolvido utilizando **React (Vite)** e estruturado de forma m
    ```bash
    npm install
    ```
-   *(Caso esteja no Windows PowerShell e enfrente restrições de script com npm, execute `npm.cmd install`)*.
+   *(Caso esteja no Windows PowerShell e enfrente restrições de script com npm, execute o comando no Command Prompt)*.
 
 3. **Executar em modo de desenvolvimento (servidor Vite):**
    ```bash
