@@ -1,0 +1,15 @@
+# Ignora node_modules em qualquer pasta do projeto (raiz, backend ou frontend)
+node_modules/
+
+# Ignora arquivos de log do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# (Opcional) Ignora variáveis de ambiente sensíveis
+.env
+.env.local
+
+# (Opcional) Ignora pastas de build do Frontend (se for Vite ou Next/React)
+dist/
+build/
