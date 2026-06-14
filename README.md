@@ -57,6 +57,18 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
 
 ---
 
+## 📖 Documentação da API (Swagger)
+
+A API conta com uma interface interativa do Swagger (OpenAPI 3.0) para visualização, exploração e testes diretos de todas as rotas a partir do navegador.
+
+### Como acessar:
+1. Certifique-se de que o servidor backend está ativo (`npm run dev` na pasta `backend/`).
+2. Acesse no seu navegador: [http://localhost:5000/api-docs](http://localhost:5000/api-docs)
+
+Na interface do Swagger, você poderá utilizar o botão **"Try it out"** em cada rota para preencher parâmetros e testar as requisições em tempo real no banco de dados mock.
+
+---
+
 ## Endpoints da API
 
 ### 1. Listagem de Atendimentos

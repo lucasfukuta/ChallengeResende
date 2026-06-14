@@ -1,5 +1,7 @@
 const express = require('express');
 const cors = require('cors');
+const swaggerUi = require('swagger-ui-express');
+const swaggerDocument = require('./config/swagger.json');
 const atendimentoRoutes = require('./routes/atendimentoRoutes');
 
 const app = express();
@@ -12,6 +14,9 @@ app.use(cors({
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 app.use(express.json());
+
+// Documentação Swagger na rota /api-docs
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
 // Vincula as rotas da API com o prefixo /api
 app.use('/api', atendimentoRoutes);
@@ -28,6 +33,7 @@ app.get('/', (req, res) => {
 // Inicializa o escutador do servidor
 app.listen(PORT, () => {
   console.log(`[Server] Rodando em http://localhost:${PORT}`);
+  console.log(`[Swagger] Documentação disponível em http://localhost:${PORT}/api-docs`);
 });
 
 module.exports = app; // Exportado para facilitar testes de integração se necessário

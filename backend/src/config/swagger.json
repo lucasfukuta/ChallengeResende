@@ -1,0 +1,228 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Challenge Resende - API de Atendimentos Jurídicos",
+    "description": "API REST para gerenciamento e monitoramento de atendimentos jurídicos, fornecendo KPIs operacionais e de faturamento.",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:5000",
+      "description": "Servidor de Desenvolvimento Local"
+    }
+  ],
+  "paths": {
+    "/api/atendimentos": {
+      "get": {
+        "summary": "Listagem paginada e filtrada de atendimentos",
+        "description": "Retorna uma lista paginada de atendimentos com suporte a busca textual por cliente, advogado ou área jurídica.",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "description": "Número da página a ser consultada.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 1
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Quantidade máxima de registros por página.",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "default": 10
+            }
+          },
+          {
+            "name": "search",
+            "in": "query",
+            "description": "Termo de pesquisa para filtragem textual em tempo real nos campos de cliente, advogado ou área jurídica.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Lista de atendimentos retornada com sucesso.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "totalItems": {
+                      "type": "integer",
+                      "example": 499
+                    },
+                    "totalPages": {
+                      "type": "integer",
+                      "example": 50
+                    },
+                    "currentPage": {
+                      "type": "integer",
+                      "example": 1
+                    },
+                    "limit": {
+                      "type": "integer",
+                      "example": 10
+                    },
+                    "data": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Atendimento"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro interno no servidor."
+          }
+        }
+      }
+    },
+    "/api/atendimentos/metrics": {
+      "get": {
+        "summary": "KPIs consolidados e dados de evolução temporal",
+        "description": "Retorna indicadores consolidados (total de atendimentos, concluídos, cancelados e receita acumulada) e agrupamentos por status e evolução mensal/diária para alimentar painéis de gráficos.",
+        "responses": {
+          "200": {
+            "description": "Métricas consolidadas com sucesso.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "kpis": {
+                      "type": "object",
+                      "properties": {
+                        "totalAtendimentos": {
+                          "type": "integer",
+                          "example": 499
+                        },
+                        "totalConcluidos": {
+                          "type": "integer",
+                          "example": 382
+                        },
+                        "totalCancelados": {
+                          "type": "integer",
+                          "example": 117
+                        },
+                        "receitaTotal": {
+                          "type": "number",
+                          "example": 128450.00
+                        }
+                      }
+                    },
+                    "porStatus": {
+                      "type": "object",
+                      "additionalProperties": {
+                        "type": "integer"
+                      },
+                      "example": {
+                        "Concluído": 382,
+                        "Cancelado": 117
+                      }
+                    },
+                    "evolucaoMensal": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "mes": {
+                            "type": "string",
+                            "example": "2021-04"
+                          },
+                          "atendimentos": {
+                            "type": "integer",
+                            "example": 240
+                          },
+                          "receita": {
+                            "type": "number",
+                            "example": 68420.00
+                          }
+                        }
+                      }
+                    },
+                    "evolucaoDiaria": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "dia": {
+                            "type": "string",
+                            "example": "2021-04-09"
+                          },
+                          "atendimentos": {
+                            "type": "integer",
+                            "example": 6
+                          },
+                          "receita": {
+                            "type": "number",
+                            "example": 1783.33
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Erro interno no servidor."
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Atendimento": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 46619
+          },
+          "cliente": {
+            "type": "string",
+            "example": "Suyan Santanna Batista de Mattos"
+          },
+          "advogado": {
+            "type": "string",
+            "example": "Fernanda Nascimento Silveira Vargas"
+          },
+          "areaJuridica": {
+            "type": "string",
+            "example": "SINPRO/DF"
+          },
+          "data": {
+            "type": "string",
+            "format": "date",
+            "example": "2021-04-09"
+          },
+          "hora": {
+            "type": "string",
+            "example": "09:00"
+          },
+          "status": {
+            "type": "string",
+            "example": "Concluído"
+          },
+          "valor": {
+            "type": "number",
+            "example": 533.33
+          }
+        }
+      }
+    }
+  }
+}
