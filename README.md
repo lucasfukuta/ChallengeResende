@@ -57,7 +57,7 @@ O backend foi estruturado seguindo o padrão MVC (focado em *Model-View-Controll
 
 ---
 
-## 📖 Documentação da API (Swagger)
+## Documentação da API (Swagger)
 
 A API conta com uma interface interativa do Swagger (OpenAPI 3.0) para visualização, exploração e testes diretos de todas as rotas a partir do navegador.
 
